@@ -5324,3 +5324,249 @@ form#tag_add_form input[type="submit"] {
     font-size: smaller;
     text-align: left;
 }
+
+#userinfo {
+    background: url(https://i.imgur.com/5ZxUboZ.png) no-repeat scroll 0 0 transparent;
+}
+
+.main_column .box .head {
+    background-image: url(https://i.imgur.com/dow1sqm.png)
+}
+
+.sidebar .box .head, .sidebar .box .head a {
+    background-image: url(https://i.imgur.com/dpSJApj.png);
+    -webkit-border-top-right-radius: 0px;
+    -webkit-border-top-left-radius: 0px;
+    color: var(--header-text-color);
+}
+
+.sidebar .box {
+    -webkit-border-radius: 0px;
+    color: var(--main-text-color);
+}
+
+#menu ul li a {
+    background: url(https://i.imgur.com/JXRzeyk.png) no-repeat scroll right bottom transparent;
+}
+
+#menu ul li a:hover {
+    background: url(https://i.imgur.com/JXRzeyk.png) no-repeat scroll right top
+}
+
+#menu ul .last a:hover {
+    background: url(https://i.imgur.com/x0RMisS.png) no-repeat scroll right top transparent;
+}
+
+input {
+    background: url(https://i.imgur.com/MNCKgVr.png) repeat-x scroll
+}
+
+#connectable {
+    color: var(--hyperlink-text-color);
+}
+
+.sidebar .box a, .main_column .box .pad a:hover {
+    color: var(--hover-color)
+}
+
+a, .main_column .box .pad a {
+    color: var(--hyperlink-text-color);
+}
+
+a:hover {
+    color: var(--hover-color);
+}
+
+#stats_seeding a, #stats_leeching a {
+    color: var(--hyperlink-text-color);
+}
+
+#userinfo #userinfo_minor li a:hover {
+    color: var(--hyperlink-text-color);
+}
+
+#userinfo #userinfo_minor li a {
+    color: var(--hyperlink-text-color);
+}
+
+#stats_leeching, #stats_seeding, #stats_gold, .r10, .r20, .r50, .r99, #stats_hnr, #userinfo .brackets a, #userinfo .brackets a:hover, #user .profile .box_stats li.online {
+    color: var(--green-color);
+}
+
+#top10 #content table tr.colhead td {
+    
+}
+
+.box, table.border td {
+    background-color: #3b3f49;
+}
+
+#shop li.item_li {
+    background: rgba(65, 72, 88, .6)
+}
+
+#shop .owned {
+    background: rgba(65,72,88,.6) url('/static/styles/game_room/images/shop/owned.png') top left no-repeat !important;
+}
+
+#shop .featured {
+    background: rgba(65,72,88,.6) url('/static/styles/game_room/images/shop/featured.png') top left no-repeat !important;
+}
+
+#shop li.item_type_0 #clickable {
+    background: url(https://i.imgur.com/FSk6Qdq.png) center left no-repeat;
+}
+
+#torrents #content .filter_torrents table tr, #torrents #content .filter_torrents table tr td.label, #torrents blockquote, table.border td.label {
+    background-color: #7e8391;
+}
+
+#forums blockquote {
+    background-color: #292b2f;
+    border: dashed #97acbe 1px
+}
+
+#torrents #content .userratingdiv table td {
+    background: transparent;
+}
+
+#forums #content table tr.colhead td {
+    background: url(https://i.imgur.com/X0e9JD9.png) !important;
+}
+
+#torrents #content .filter_torrents table td, blockquote, #requests #content table, #requests #content .center, #requests #content .center table, #forums td {
+    border: solid #565a6a 1px !important;
+}
+
+.main_column .head .newsdate {
+    background-image: none;
+    background: linear-gradient(rgba(112, 116, 124, 0) 0%, rgb(82, 82, 105) 50%, rgba(45, 47, 51, 0) 100%);
+    height: 38px;
+    line-height: 3;
+    border-radius: 16px;
+    color: var(--main-text-color);
+}
+
+.main_column .box .pad {
+    color: var(--main-text-color)
+}
+
+#menu ul {
+    background-image: url(https://i.imgur.com/9qq9Po0.png)
+}
+
+.main_column_bg, .main_column, #main_column_bottom, #main_column_top {
+    -webkit-border-radius: 0px;
+    
+}
+
+#main_column_top {
+    background-image: url(https://i.imgur.com/pfijbD7.png)
+}
+
+.main_column_bg, .sidebar .box {
+    background-color: var(--main-bg-color);
+}
+
+#main_column_bottom {
+    background-image: url(https://i.imgur.com/Ka3nw3E.png)
+}
+
+#user #content .thin td {
+    background-color: rgba(69, 71, 81, 0.75);
+}
+
+#user #content .thin table {
+    border: 1px #565a6a solid
+}
+
+#forums table.forum_unread {
+    border: 0 !important;
+}
+
+#header #searchbars input {
+    background-image: none;
+    background: linear-gradient(#4d4d4d,#202020 35%,#2d2d2d 75%);
+    border-radius: 0px;
+    color: var(--main-text-color)
+}
+
+#user #content table tr.colhead td, .colhead, .colhead_dark {
+    background: url("https://i.imgur.com/X0e9JD9.png") repeat-x scroll 0 center transparent;
+    background-size: auto 100%;
+}
+
+#user #content table tr.colhead_dark td{
+    background: url(https://i.imgur.com/X0e9JD9.png) repeat-x scroll 0 center transparent;
+}
+
+.box_gold table {
+    background-color: var(--main-bg-color) !important;
+}
+
+#user #content .thin td.label, #requests #content .center table tr td.label {
+    background-color: rgba(41, 45, 53, 0.85)
+}
+
+#torrents #content .thin table tr, #requests #content .center table tr, #requests #content table tr td.label {
+    background-color: rgba(37, 39, 47, .75);
+}
+
+td.body {
+    background-color: rgba(41, 42, 49, .85)
+}
+
+#header {
+    background: url(https://i.imgur.com/nXiJbf4.png) repeat-x;
+}
+
+body {
+    background-color: #131316;
+}
+
+#logo {
+    background: url(https://i.imgur.com/msYGTwK.png)
+}
+
+
+.main_column .box .head strong {
+    color: var(--main-text-color);
+}
+
+/* top 10 */
+
+#top10 #content .thin .center table tr td, #top10 #content .thin .center table tr td.label {
+    background-color: var(--slightly-visible);
+}
+
+#top10 #content table tr.colhead td {
+    background: url("https://i.imgur.com/X0e9JD9.png") repeat-x scroll 0 center transparent !important;
+}
+
+#top10 #content .rowa td, .rowa td, #requests #content table tr.rowa {
+    background-color: rgba(47, 48, 54, .75);
+}
+
+#top10 #content .rowb td, .rowb td, #requests #content table tr.rowb {
+    background-color: rgba(67, 69, 77, .75);
+}
+
+.edition_info {
+    background-color: rgba(77, 82, 94, .6)
+}
+
+td {
+    border: 1px solid #2c2f33
+}
+
+.torrent_table tr.group_torrent {
+    background-color: rgba(77, 82, 94, .6)
+}
+
+.sticky td {
+    background-color: #585c64;
+}
+
+.forum_post tr {
+    background-color: var(--main-bg-color)
+}
