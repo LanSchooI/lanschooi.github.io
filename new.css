@@ -226,14 +226,14 @@ strong.newnoti {
 .nobr{white-space:nowrap;}
 
 blockquote {
-	border:solid #2c4b66 1px;
+	border:solid #565a6a 1px;
 	background-color:#193148;
 	color:#fff;margin-top:5px;
 	padding:10px;}
 
 pre {
 	background-color:#426d93;
-	border:1px dashed #2c4b66;
+	border:1px dashed #565a6a;
 	padding:10px;
 	color:#fff;}
 
@@ -306,7 +306,7 @@ input.input_tog {width: 65%;}
 	font-weight:700;}
 .save_message  {
 	background-color:#426d93;
-	border:1px solid #2c4b66;
+	border:1px solid #565a6a;
 	color:#fff;
 	font-weight:700;
 	padding:3px 0;
@@ -889,7 +889,7 @@ div.sidebar #event_div {
 #index .sidebar .box .staff_pick li a {
 	color:#7FB7D3;
 	text-decoration:none;
-	border-bottom:dotted 1px #2c4b66;}
+	border-bottom:dotted 1px #565a6a;}
 #index .sidebar .box .staff_pick li a:hover {
 	color: #a1d6f1;
 	border-bottom:dotted 1px #CCC;
@@ -917,7 +917,7 @@ div.sidebar #event_div {
 .sidebar .box a {
 	color:#e0eaff;
 	text-decoration:none;
-	border-bottom:1px dotted #2c4b66;}
+	border-bottom:1px dotted #565a6a;}
 .sidebar .box a:hover {border-bottom-color:#CCC;}
 
 .main_column .box .head {
@@ -1122,11 +1122,11 @@ table.forum_index {											/* Sets background of main forum page */
 	color:#fff;
 	border-bottom:none;}
 #forums #content h4 a:hover {
-	border-bottom: dotted 1px #2c4b66;}
+	border-bottom: dotted 1px #565a6a;}
 
 .spoilerbox {
     background-color: #224363;
-    border: 1px dotted #2C4B66;
+    border: 1px dotted #565a6a;
     margin-left: 10px;
     margin-top: 10px;
     padding: 10px;}
@@ -1316,7 +1316,7 @@ table td.avatar {
 	color: #fff;}
 
 #forums blockquote {
-	border:dashed #2c4b66 1px;
+	border:dashed #565a6a 1px;
 	background-color:rgba(26, 42, 59, 1);
 	color:#fff;
 	margin-top:5px;
@@ -1573,10 +1573,10 @@ tbody .r10, tbody .r20, tbody .r50, tbody .r99 {color:#bcd68c;}
 #torrents #content .filter_torrents table {	margin-bottom: 6px;}
 #torrents #content .filter_torrents #taglist {margin-bottom:-3px;}
 #torrents #content .filter_torrents #taglist td {border:#aaa dotted 1px;}
-#torrents #content .filter_torrents table tr {background-color:#426d93;}
-#torrents #content .filter_torrents table tr td.label {background-color:#426d93;}
+#torrents #content .filter_torrents table tr {background-color:#585c64;}
+#torrents #content .filter_torrents table tr td.label {background-color:#585c64;}
 #torrents #content .filter_torrents table {border:solid black;}
-#torrents #content .filter_torrents table td {border:solid #2c4b66 1px;}
+#torrents #content .filter_torrents table td {border:solid #565a6a 1px;}
 #torrents #content .filter_torrents .submit {text-align:right;}
 #torrents #content .filter_torrents .submit span {position:relative; top:6px;}
 /*#torrents .group_torrent td strong+strong{color:#F00}
@@ -2755,7 +2755,7 @@ ul.collage_images img {
 
 #rules #wrapper #content .thin .box a  {
 	color:#fff;
-	border-bottom-color:#2c4b66;
+	border-bottom-color:#565a6a;
 	text-decoration:none;}
 
 #rules #wrapper #content .thin .box a:hover {
