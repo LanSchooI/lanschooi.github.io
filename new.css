@@ -1076,7 +1076,7 @@ table.forum_index {											/* Sets background of main forum page */
     border: 1px solid #565a6a;}
 
 #forums #content .thin table {								/*Background of forum sections*/
-	background: url('images/companioncube2.png') repeat-y scroll bottom right;
+	background: url('https://i.imgur.com/wPvACxL.png') repeat-y scroll bottom right;
     border: 1px solid #565a6a;}
 #forums #content .thin tr.rowa {background-color: transparent;}
 #forums #content .thin tr.rowb {background-color: transparent;}
@@ -1385,7 +1385,7 @@ tr.participated >td:nth-child(2):before {
 #userhistory #content .thin table {
 	width: 800px;
 	margin: auto;
-	background: url('images/companioncube2.png') repeat-y scroll bottom right;}
+	background: url('https://i.imgur.com/wPvACxL.png') repeat-y scroll bottom right;}
 #userhistory #content .thin table tr {
 	background-color:transparent;}
 
@@ -1400,7 +1400,7 @@ tr.participated >td:nth-child(2):before {
 /* *****Torrents Browse****** */
 /* ************************** */
 
-#torrent_table {background: url("images/mariobkg2.png") repeat-y scroll top center;}  /*Browse page background*/
+#torrent_table {background: url("https://i.imgur.com/iKifocg.png") repeat-y scroll top center;}  /*Browse page background*/
 
 tr.group {background-color: rgba(27, 47, 63, 0.6);}									/*Game groups*/
 tr.group:hover {background-color: rgba(24, 59, 88, 0.8);}
@@ -1412,7 +1412,7 @@ tr.group:hover {background-color: rgba(24, 59, 88, 0.8);}
 .torrent_table tr.group_torrent:hover{background-color: rgba(27, 47, 63, 0.8);}
 
 #torrents #content .thin table {													/*Generic torrents background img*/
-	background: url('images/companioncube2.png') repeat-y scroll bottom right;
+	background: url('https://i.imgur.com/wPvACxL.png') repeat-y scroll bottom right;
     border: 1px solid #565a6a;}
 
 #torrents #content .thin table tr{background-color: rgba(27, 47, 63, 0.85);}
@@ -2023,7 +2023,7 @@ tbody .r10, tbody .r20, tbody .r50, tbody .r99 {color:#bcd68c;}
 #allreviews table {
   width: 95%;
   margin: 8px auto;
-  background: transparent url('images/companioncube2.png') repeat scroll 0% 0% !important;
+  background: transparent url('https://i.imgur.com/wPvACxL.png') repeat scroll 0% 0% !important;
   border: none;
 }
 
@@ -2379,7 +2379,7 @@ td.cats_col {
 	margin:0 auto;}
 
 #user #content .thin table {
-	background: url('images/companioncube2.png') repeat-y scroll bottom right;
+	background: url('https://i.imgur.com/wPvACxL.png') repeat-y scroll bottom right;
 	border: 1px #565a6a solid;}
 
 #user #content .thin td {
@@ -2528,12 +2528,12 @@ td.cats_col {
 /* ******************************* */
 
 #collections .thin table {
-	background: url('images/mariobkg2.png') repeat-y scroll bottom right;
+	background: url('https://i.imgur.com/iKifocg.png') repeat-y scroll bottom right;
     border: 1px solid #565a6a;}
 
 #collections #content .center {margin:15px auto;}
 #collections #content .center table {border: 1px solid #565a6a;}
-#collections #content .center table tr {background: url('images/companioncube2.png');}
+#collections #content .center table tr {background: url('https://i.imgur.com/wPvACxL.png');}
 #collections #content .center table tr td.label {background-color:rgba(27, 47, 63, 0.75); }
 #collections #content .center table tr td {background-color:rgba(27, 47, 63, 0.75); border: none;}
 
@@ -2716,7 +2716,7 @@ ul.collage_images img {
 /* ******************************* */
 
 #rules #wrapper #content {
-	background: url('images/companioncube2.png') repeat-y scroll top center;
+	background: url('https://i.imgur.com/wPvACxL.png') repeat-y scroll top center;
 	color:#fff;}
 #rules #wrapper #content .thin{
 	background-color:rgba(27, 47, 63, 0.85);
@@ -3046,7 +3046,7 @@ td .log_ {color: #}
 td .log_ {color: #}
 td .log_ {color: #}
 
-#log #content table {background: url('images/companioncube2.png'); border: 1px solid #565a6a;}
+#log #content table {background: url('https://i.imgur.com/wPvACxL.png'); border: 1px solid #565a6a;}
 #log #content table tr td.label {background-color:rgba(27, 47, 63, 0.85);}
 #log #content table tr td {background-color:rgba(27, 47, 63, 0.85);}
 #log #content table tr.rowa:hover {background-color: rgba(24, 59, 88, 0.85);}
@@ -3080,7 +3080,7 @@ td .log_ {color: #}
 #requests #content .center #otherop {margin-bottom: -3px;}
 
 #requests #content .center table {
-	background: url('images/companioncube2.png');
+	background: url('https://i.imgur.com/wPvACxL.png');
 	border: 1px solid #003;
 	margin-bottom: 6px;}
 #requests #content .center table td {border:none;}
@@ -3136,13 +3136,13 @@ td .log_ {color: #}
 /* ************************** */
 
 #top10 #content .thin .center {margin:0 auto; margin-bottom:30px;}
-#top10 #content .thin .center table {background: url('images/companioncube2.png'); border: 1px #003 solid;}
+#top10 #content .thin .center table {background: url('https://i.imgur.com/wPvACxL.png'); border: 1px #003 solid;}
 #top10 #content .thin .center table tr td {background-color:rgba(27, 47, 63, 0.85); border: none;}
 #top10 #content .thin .center table tr td.label {background-color:rgba(27, 47, 63, 0.85); border: none;}
 
 #top10 #content .group_torrent td.center {width:28px;}
 
-#top10 #content table.border {background: url('images/mariobkg2.png') center center; border: 1px #003 solid;}
+#top10 #content table.border {background: url('https://i.imgur.com/iKifocg.png') center center; border: 1px #003 solid;}
 #top10 #content .thin tr.rowa {background-color: transparent;}
 #top10 #content .thin tr.rowb {background-color: transparent;}
 
@@ -3164,7 +3164,7 @@ td .log_ {color: #}
 #staff #content .thin .box table {
 	width:95%;
 	margin:8px auto;
-	background:url('images/companioncube2.png');}
+	background:url('https://i.imgur.com/wPvACxL.png');}
 
 #staff h3 {
 	text-decoration:underline;}
@@ -3322,7 +3322,7 @@ tr.unreadpm {color:#8ed538;	background-color:#1c3248;}
 /* *******UPLOAD FORM******* */
 /* ************************* */
 
-#upload #content table {background: url('images/companioncube2.png');}
+#upload #content table {background: url('https://i.imgur.com/wPvACxL.png');}
 #upload #content table td {background-color:rgba(24,59,88,0.385); border: none;}
 #upload #content table td.label {background-color:rgba(27, 47, 63, .85); border: none;}
 
@@ -3336,7 +3336,7 @@ tr.unreadpm {color:#8ed538;	background-color:#1c3248;}
 /* ********PLATFORMS******** */
 /* ************************* */
 
-#artist #content table {background: url('images/companioncube2.png');}
+#artist #content table {background: url('https://i.imgur.com/wPvACxL.png');}
 #artist #content table tr {background-color:rgba(24,59,88,0.85); border-bottom: 1px #003 solid;}
 
 #artist #content .box table td {background-color:transparent; border: none;}
