@@ -13,7 +13,7 @@ html {
 body {
 	width: 100%;
 	height: 100%;
-	background-color: #0E1720;						/*Background color (very dark blue)*/
+	background-color: #131316;						/*Background color (very dark blue)*/
 	font-family: tahoma, helvetica, sans-serif;
 	font-size: 8pt;
 	color: #e1ecf1;
@@ -74,7 +74,7 @@ table {
     border-width: medium 1px 1px medium;
     width: 100%;
 	background:url("images/companioncube-blue.png");
-	border-left: 1px solid #036;}
+	border-left: 1px solid #565a6a;}
 table.border {border: 1px solid #355676;}
 table.border td {
     background-color: #0F3050;
@@ -91,7 +91,7 @@ td.label {
     color: #FFFFFF;
     padding-right: 5px;}
 td {
-    border: 1px solid #036;
+    border: 1px solid #565a6a;
     padding: 5px;
     text-align: left;}
 td.sign a {
@@ -154,7 +154,7 @@ tr a:hover {
 	margin: 0 auto;}
 
 strong.newnoti {
-	color:#C7EB00;}
+	color:#8ed538;}
 
 #header #alerts {
 	position:absolute;
@@ -220,7 +220,7 @@ strong.newnoti {
 .r07 {color: #FF7100;}
 .r08 {color: #FF9700;}
 .r09 {color: #FFAA00;}
-.r10, .r20, .r50, .r99 {color: #c7eb00;}
+.r10, .r20, .r50, .r99 {color: #8ed538;}
 
 .hidden, .hide{display:none}
 .nobr{white-space:nowrap;}
@@ -472,7 +472,7 @@ div.sidebar #event_div {
 	top: 237px;
 	width: 984px;}
 #menu ul {
-	background-image: url('images/NavULBG.png');
+	background-image: url('https://i.imgur.com/9qq9Po0.png');
 	height: 66px;
 	list-style: none;
 	text-align: center;}
@@ -480,15 +480,15 @@ div.sidebar #event_div {
 #menu ul li div {display: none;}
 
 #menu ul .last a {									/*Hides last divider*/
-	background: url('images/NavLILast.png') no-repeat scroll right bottom transparent;}
+	background: url('https://i.imgur.com/x0RMisS.png') no-repeat scroll right bottom transparent;}
 #menu ul .last a:hover {
-	background: url('images/NavLILast.png') no-repeat scroll right top transparent;
+	background: url('https://i.imgur.com/x0RMisS.png') no-repeat scroll right top transparent;
 	position: relative;
 	top: 0;
 	left: 0;}
 
 #menu ul li a {										/*Content and hover look*/
-	background: url('images/NavLI.png') no-repeat scroll right bottom transparent;
+	background: url('https://i.imgur.com/9qq9Po0.png') no-repeat scroll right bottom transparent;
 	font-family: Helvetica, Arial, Sans-serif;
 	font-weight: bold;
 	font-size: 12px;
@@ -500,7 +500,7 @@ div.sidebar #event_div {
 	line-height: 57px;
 	width: 94px;}
 #menu ul li a:hover {
-	background: url('images/NavLI.png') no-repeat scroll right top transparent;
+	background: url('https://i.imgur.com/9qq9Po0.png') no-repeat scroll right top transparent;
 	position: relative;
 	top: 0;
 	left: 0;}
@@ -556,11 +556,11 @@ div.sidebar #event_div {
 	font-family:Arial;
 	text-decoration:underline;}
 #userinfo .brackets a {
-	color:#C7EB00;
+	color:#8ed538;
 	font-family:Arial;
 	text-decoration:none;}
 #userinfo .brackets a:hover {
-	color:#C7EB00;
+	color:#8ed538;
 	font-family:Arial;
 	text-decoration:underline;}
 
@@ -574,15 +574,15 @@ div.sidebar #event_div {
 	list-style:none outside none;
 	float:left;}
 #stats_seeding {
-	color:#C7EB00;
+	color:#8ed538;
 	font-family:Arial;
 	width:160px;}
 #stats_leeching {
-	color:#C7EB00;
+	color:#8ed538;
 	font-family:Arial;
 	clear:right;}
 #stats_gold {
-	color:#C7EB00;
+	color:#8ed538;
         font-family:Arial;
 	margin-top: 10px;
 	width: 160px;}
@@ -593,7 +593,7 @@ div.sidebar #event_div {
 #stats_share_score {
 	margin-left: 10px;}
 #stats_hnr {
-	color:#C7EB00;
+	color:#8ed538;
 	font-family:Arial;}
 #online_irc {
 	padding-left: 10px;}
@@ -603,7 +603,7 @@ div.sidebar #event_div {
 	clear:left;
 	width:160px;}
 #stats_irc {
-	color:#C7EB00;
+	color:#8ed538;
 	font-family:Arial;
 	margin-top:10px;}
 #stats_seeding a:link, #stats_leeching a:link {
@@ -1000,11 +1000,11 @@ div.sidebar #event_div {
 	margin-left: 27px;}
 
 .main_column .box .pad a {
-	color: #c7eb00;
+	color: #8ed538;
 	text-decoration:none;}
 
 .main_column .box .pad a:hover {
-	color: #c7eb00;
+	color: #8ed538;
 	text-decoration:underline}
 
 #index blockquote {background-color:#193148; color:#fff;}
@@ -1073,14 +1073,14 @@ tr.likes td {text-align: left !important;}					/*Left aligns the like/dislike te
 table.forum_index {											/* Sets background of main forum page */
     background: url('images/companioncube.png') repeat-y scroll bottom right !important;
 	ackground-size: 100% auto;
-    border: 1px solid #036;}
+    border: 1px solid #565a6a;}
 
 #forums #content .thin table {								/*Background of forum sections*/
 	background: url('images/companioncube2.png') repeat-y scroll bottom right;
-    border: 1px solid #036;}
+    border: 1px solid #565a6a;}
 #forums #content .thin tr.rowa {background-color: transparent;}
 #forums #content .thin tr.rowb {background-color: transparent;}
-#forums .thin td {border: 1px solid #036;}
+#forums .thin td {border: 1px solid #565a6a;}
 
 .rowa td {background-color: rgba(27, 47, 63, 0.85);}	/*Sets transparency, etc. for forum index*/
 .rowb td {background-color: rgba(24, 59, 88, 0.85);}
@@ -1107,7 +1107,7 @@ table.forum_index {											/* Sets background of main forum page */
 	text-align:left;
 	background-color: rgba(27, 47, 63, 0.75);}
 
-#forums table.forum_unread {border:solid #036 7px !important;}		/*Border around unread posts*/
+#forums table.forum_unread {border:solid #565a6a 7px !important;}		/*Border around unread posts*/
 
 #forums td.body {text-align:left;}
 
@@ -1413,7 +1413,7 @@ tr.group:hover {background-color: rgba(24, 59, 88, 0.8);}
 
 #torrents #content .thin table {													/*Generic torrents background img*/
 	background: url('images/companioncube2.png') repeat-y scroll bottom right;
-    border: 1px solid #036;}
+    border: 1px solid #565a6a;}
 
 #torrents #content .thin table tr{background-color: rgba(27, 47, 63, 0.85);}
 /*#torrents #content .thin table tr:hover{background-color: rgba(24, 59, 88, 0.85);}*/
@@ -1928,7 +1928,7 @@ tbody .r10, tbody .r20, tbody .r50, tbody .r99 {color:#bcd68c;}
 }
 
 #torrents #content .userratingdiv table {
-  border: 0px solid #036 !important;
+  border: 0px solid #565a6a !important;
 }
 
 #torrents #content .userratingdiv #review {
@@ -2307,7 +2307,7 @@ td.cats_col {
 #bookmarks table {
 	background: url("images/companioncube-blue.png") repeat-y scroll center top;
    	background-color: rgba(27, 47, 63, 0.55);
-	border: #036 solid 1px;
+	border: #565a6a solid 1px;
     width: 760px;}
 #bookmarks table td {
    	background-color:transparent;}
@@ -2317,12 +2317,12 @@ td.cats_col {
 /* ************************** */
 
 #achievements {
-	border: 1px solid #036;
+	border: 1px solid #565a6a;
 	background-color: #426d93;}
 
 #achievements tr {
 	background: none;
-	border-bottom: #036 1px solid;
+	border-bottom: #565a6a 1px solid;
 	color: #fff;}
 
 #achievements td {
@@ -2380,7 +2380,7 @@ td.cats_col {
 
 #user #content .thin table {
 	background: url('images/companioncube2.png') repeat-y scroll bottom right;
-	border: 1px #036 solid;}
+	border: 1px #565a6a solid;}
 
 #user #content .thin td {
 	background-color: rgba(24, 59, 88, 0.85);
@@ -2529,10 +2529,10 @@ td.cats_col {
 
 #collections .thin table {
 	background: url('images/mariobkg2.png') repeat-y scroll bottom right;
-    border: 1px solid #036;}
+    border: 1px solid #565a6a;}
 
 #collections #content .center {margin:15px auto;}
-#collections #content .center table {border: 1px solid #036;}
+#collections #content .center table {border: 1px solid #565a6a;}
 #collections #content .center table tr {background: url('images/companioncube2.png');}
 #collections #content .center table tr td.label {background-color:rgba(27, 47, 63, 0.75); }
 #collections #content .center table tr td {background-color:rgba(27, 47, 63, 0.75); border: none;}
@@ -2748,7 +2748,7 @@ ul.collage_images img {
 #rules #wrapper #content .thin .box {
 	background-color:rgba(24, 59, 88, .55);
 	margin:0 20px;
-	border:solid #036 1px;}
+	border:solid #565a6a 1px;}
 
 #rules #content .thin {padding-bottom:30px;}
 #rules #content .thin .pad ul {padding:10px;}
@@ -2986,7 +2986,7 @@ ul.collage_images img {
 #wiki .main_column {
     background: url("images/companioncube-blue.png") repeat scroll -3px 0 transparent;
     border-radius: 15px 15px 15px 15px;
-	border: 1px #036 solid;
+	border: 1px #565a6a solid;
     margin-left: 0px;
     width: 628px;
     margin-bottom: 12px;}
@@ -3046,7 +3046,7 @@ td .log_ {color: #}
 td .log_ {color: #}
 td .log_ {color: #}
 
-#log #content table {background: url('images/companioncube2.png'); border: 1px solid #036;}
+#log #content table {background: url('images/companioncube2.png'); border: 1px solid #565a6a;}
 #log #content table tr td.label {background-color:rgba(27, 47, 63, 0.85);}
 #log #content table tr td {background-color:rgba(27, 47, 63, 0.85);}
 #log #content table tr.rowa:hover {background-color: rgba(24, 59, 88, 0.85);}
@@ -3060,7 +3060,7 @@ td .log_ {color: #}
 /* **********REQUESTS********* */
 /* *************************** */
 
-#requests #content table {/*background: url('images/mariobkg2.png') no-repeat;*/ border: 1px solid #036; background-size: 100% 100%;}
+#requests #content table {/*background: url('images/mariobkg2.png') no-repeat;*/ border: 1px solid #565a6a; background-size: 100% 100%;}
 #requests #content table tr td.label {background-color:rgba(27, 47, 63, 0.85);}
 #requests #content table tr td {background-color:transparent; border: none;}
 #requests #content table tr.rowa {background-color: rgba(27, 47, 63, 0.75);}
@@ -3075,7 +3075,7 @@ td .log_ {color: #}
 #requests #content .center {
 	width:85%;
 	margin: 0 auto;
-	border: 1px solid #036;}
+	border: 1px solid #565a6a;}
 
 #requests #content .center #otherop {margin-bottom: -3px;}
 
@@ -3111,7 +3111,7 @@ td .log_ {color: #}
 #chat #wrapper #content .thin .box {
 	background-color:#2c4860;
 	margin:0 20px;
-	border:solid #036 1px;}
+	border:solid #565a6a 1px;}
 
 #chat #content blockquote {
 	background-color:#426d93;}
@@ -3304,9 +3304,9 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #inbox #quickpost {width: 100%;}
 
-tr.unreadpm {color:#C7EB00;	background-color:#1c3248;}
+tr.unreadpm {color:#8ed538;	background-color:#1c3248;}
 
-#inbox .unreadpm a {color:#C7EB00;}
+#inbox .unreadpm a {color:#8ed538;}
 
 #inbox li {background-position:left -250px;}
 
@@ -4572,7 +4572,7 @@ marquee {width: 100px;}
      color: yellowgreen;
      text-decoration: underline;}
 .monsters_manager #attributes_div tr:not(:last-child) td {
-	 border-bottom: 1px solid #036;}
+	 border-bottom: 1px solid #565a6a;}
 .monsters_manager .wide_text {
 	width: 98%;}
 
