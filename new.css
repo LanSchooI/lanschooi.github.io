@@ -1408,8 +1408,8 @@ tr.group:hover {background-color: rgba(24, 59, 88, 0.8);}
 .torrent {background-color: rgba(27, 47, 63, 0.6);}									/*Non-game groups*/
 .torrent:hover {background: rgba(24, 59, 88, 0.8);}
 
-.torrent_table tr.group_torrent{background-color: rgba(24, 59, 88, 0.6);}			/*Open groups*/
-.torrent_table tr.group_torrent:hover{background-color: rgba(27, 47, 63, 0.8);}
+.torrent_table tr.group_torrent{background-color: rgba(77, 82, 94, .6);}			/*Open groups*/
+.torrent_table tr.group_torrent:hover{background-color: rgba(77, 82, 94, .8);}
 
 #torrents #content .thin table {													/*Generic torrents background img*/
 	background: url('https://i.imgur.com/wPvACxL.png') repeat-y scroll bottom right;
