@@ -3063,8 +3063,8 @@ td .log_ {color: #}
 #requests #content table {/*background: url('images/mariobkg2.png') no-repeat;*/ border: 1px solid #565a6a; background-size: 100% 100%;}
 #requests #content table tr td.label {background-color:rgba(47, 48, 54, .75);}
 #requests #content table tr td {background-color:transparent; border: none;}
-#requests #content table tr.rowa {background-color: rgba(27, 47, 63, 0.75);}
-#requests #content table tr.rowb {background-color: rgba(24, 59, 88, 0.75);}
+#requests #content table tr.rowa {background-color: rgba(47, 48, 54, .75);}
+#requests #content table tr.rowb {background-color: rgba(67, 69, 77, .75);}
 
 /*
  #requests #content table tr:not([class="rowa"]):not([class="rowb"]) {
@@ -3085,7 +3085,7 @@ td .log_ {color: #}
 	margin-bottom: 6px;}
 #requests #content .center table td {border:none;}
 #requests #content .center table tr {background-color:#46444dbb;}
-#requests #content .center table tr td.label {background-color:rgba(27,47,63,0.65);}
+#requests #content .center table tr td.label {background-color:#585c64aa;}
 
 #requests #content .center .submit {
 	text-align:right;
