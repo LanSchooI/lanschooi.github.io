@@ -80,14 +80,14 @@ table.border td {
     background-color: #0F3050;
     border: 1px solid #355676;}
 table.border td.label {
-    background-color: #426D93;}
+    background-color: #585c64;}
 table.slice {margin-top:-1px;}
 td.label {text-align:right;}
 
 td.body {
 	background-color: rgba(27, 46, 64, 1);}
 td.label {
-    background-color: #426D93;
+    background-color: #585c64;
     color: #FFFFFF;
     padding-right: 5px;}
 td {
@@ -232,7 +232,7 @@ blockquote {
 	padding:10px;}
 
 pre {
-	background-color:#426d93;
+	background-color:#585c64;
 	border:1px dashed #565a6a;
 	padding:10px;
 	color:#fff;}
@@ -305,7 +305,7 @@ input.input_tog {width: 65%;}
 	text-align:center;
 	font-weight:700;}
 .save_message  {
-	background-color:#426d93;
+	background-color:#585c64;
 	border:1px solid #565a6a;
 	color:#fff;
 	font-weight:700;
@@ -1292,9 +1292,9 @@ table td.avatar {
 #forums #content .search table td {
 	border:solid #565a6a 1px;}
 #forums #content .search table tr {
-	background-color:#426d93;}
+	background-color:#585c64;}
 #forums #content .search table tr td.label {
-	background-color:#426d93; opacity:0.1}
+	background-color:#585c64; opacity:0.1}
 #forums #content .search .submit {
 	text-align:right;
 	margin-right: 5px;}
@@ -1479,7 +1479,7 @@ tr.group:hover {background-color: rgba(24, 59, 88, 0.8);}
 	display: inline-block;
 	padding: 1px 4px;
 	margin: 2px 3px 0px 4px;
-	background-color: #426D93;
+	background-color: #585c64;
 }
 .tags {
 	margin-left:4px;
@@ -2318,7 +2318,7 @@ td.cats_col {
 
 #achievements {
 	border: 1px solid #565a6a;
-	background-color: #426d93;}
+	background-color: #585c64;}
 
 #achievements tr {
 	background: none;
@@ -2326,7 +2326,7 @@ td.cats_col {
 	color: #fff;}
 
 #achievements td {
-	background:#426d93;
+	background:#585c64;
 	border: none;
 	vertical-align: middle;
 	text-align: center;}
@@ -3114,7 +3114,7 @@ td .log_ {color: #}
 	border:solid #565a6a 1px;}
 
 #chat #content blockquote {
-	background-color:#426d93;}
+	background-color:#585c64;}
 
 #chat #content .thin {margin-bottom:20px;}
 #chat #content .thin .pad ul {padding:10px;}
@@ -3281,7 +3281,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #inbox #searchbox {
 	padding:2px;
-	background-color:#426d93;
+	background-color:#585c64;
 	border:solid 1px #565a6a;
 	margin-bottom:9px;
 	padding-left: 9px;}
