@@ -823,7 +823,7 @@ div.sidebar #event_div {
 
 .sidebar .box {
 	width: 207px;
-	background-color: #264059;
+	background-color: #3b3f49;
 	margin-bottom: 15px;
 	font-family: Arial, sans-serif;
 	color:#e0eaff;
@@ -1923,8 +1923,8 @@ tbody .r10, tbody .r20, tbody .r50, tbody .r99 {color:#bcd68c;}
 }
 
 #torrents #content .userratingdiv table td {
-  background: #264059;
-  border: 0px #264059 solid !important;
+  background: #3b3f49;
+  border: 0px #3b3f49 solid !important;
 }
 
 #torrents #content .userratingdiv table {
@@ -3195,7 +3195,7 @@ td .log_ {color: #}
 	text-decoration:underline;}
 
 #blog .box {
-	background-color:#264059;
+	background-color:#3b3f49;
 	color: #fff;
 	border: 1px solid #003;}
 #blog .box a {
@@ -3276,7 +3276,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 	margin-bottom:8px;
 	margin-top:5px;}
 
-#inbox .box {background-color:#264059; color:#fff; border: 1px #003 solid;}
+#inbox .box {background-color:#3b3f49; color:#fff; border: 1px #003 solid;}
 #inbox .box a {color:#fff; font-weight:bold;}
 
 #inbox #searchbox {
@@ -4446,7 +4446,7 @@ marquee {width: 100px;}
 	position: relative;
 	overflow-x: hidden;
 	display: block;
-	background: #264059 !important;
+	background: #3b3f49 !important;
 	border: none !important;}
 
 .box_gold tr.total td {border-top: 1px solid #c6e6f6 !important;}
