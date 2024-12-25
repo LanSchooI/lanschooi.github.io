@@ -33,12 +33,12 @@ h2 {												/*Header at top of most pages (wiki, requests, etc*/
 	border-bottom:solid 2px #314f6d;}				/*Medium blue bottom border*/
 
 h3#irc, h3#general, h3#jump, h3#forums {padding:10px;}
-h3#general {margin-top: 0; padding-top: 20px; pa}
+h3#general {margin-top: 0; padding-top: 20px;}
 
 ol {margin-left: 25px;}
 
 input, button {												/*Input boxes (search, torrent search, etc.)*/
-	background:url("images/BlueGradBtn.png") repeat-x scroll;
+	background:url("https://i.imgur.com/MNCKgVr.png") repeat-x scroll;
 	border:1px solid #999999;
 	color:#FDFDFD;
 	padding:2px 3px;}
@@ -391,7 +391,7 @@ div.sidebar #event_div {
 	text-align: center;
 	list-style: none;}
 #header #searchbars input {
-    background-image: url("images/SearchBG.png");
+    background-image: url("https://i.imgur.com/MNCKgVr.png");
     border-style: hidden;
     border-width: 0;
     color: #CEF6FF;
@@ -510,7 +510,7 @@ div.sidebar #event_div {
 /* ************************** */
 
 #userinfo {
-	background:url("images/UserBG.png") no-repeat scroll 0 0 transparent;
+	background:url("https://i.imgur.com/5ZxUboZ.png") no-repeat scroll 0 0 transparent;
 	left:0;
 	margin:0 auto;
 	position:absolute;
@@ -898,7 +898,7 @@ div.sidebar #event_div {
 	left: 1px;}
 
 .sidebar .box .head, .sidebar .box .head a  {
-	background-image:url('images/ColHead.png');
+	background-image:url('https://i.imgur.com/dpSJApj.png');
 	background-repeat: no-repeat;
 	text-align:center;
 	line-height:25px;
@@ -921,7 +921,7 @@ div.sidebar #event_div {
 .sidebar .box a:hover {border-bottom-color:#CCC;}
 
 .main_column .box .head {
-	background-image: url('images/MainHeader.png');
+	background-image: url('https://i.imgur.com/dow1sqm.png');
 	height: 48px;
 	width: 735px;
 	background-repeat: no-repeat;
