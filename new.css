@@ -359,7 +359,7 @@ p.min_padding {
 
 .box {
 	font-size: 8pt;
-	background-color:#1B2E40;}
+	background-color:#3b3f49;}
 
 .pad h3, .pad h4, .padbox h3, .padbox h4 {
 	margin-top: 0px;
@@ -1097,7 +1097,7 @@ table.forum_index {											/* Sets background of main forum page */
 	text-decoration:underline;
 	font-weight:bold!important}
 
-#forums #content .box table td {background-color:rgba(24,59,88,0.85); border: none;}
+#forums #content .box table td {background-color:#46444dbb; border: none;}
 #forums #content .box table td.label {background-color:rgba(27, 47, 63, .85); border: none;}
 
 #forums #content #otherop td {						/* Latest Posts box with subforum selections */
@@ -2541,9 +2541,9 @@ td.cats_col {
 #collections #content #torrent_table tr td {background-color:rgba(27,47,63,0.65);}
 #collections #content td.collicon{height:28px; width:28px;}
 
-#collections #content #new_collage tr td.label {background-color:rgba(24,59,88,0.85); border:none;}
+#collections #content #new_collage tr td.label {background-color:#46444dbb; border:none;}
 #collections #content #new_collage tr td {background-color:rgba(27,47,63,0.65); border:none;}
-#collections #content #edit_collage tr td.label {background-color:rgba(24,59,88,0.85); border:none;}
+#collections #content #edit_collage tr td.label {background-color:#46444dbb; border:none;}
 #collections #content #edit_collage tr td {background-color:rgba(27,47,63,0.65); border:none;}
 
 /* Collection Pages */
@@ -3084,7 +3084,7 @@ td .log_ {color: #}
 	border: 1px solid #565a6a;
 	margin-bottom: 6px;}
 #requests #content .center table td {border:none;}
-#requests #content .center table tr {background-color:rgba(24,59,88,0.85);}
+#requests #content .center table tr {background-color:#46444dbb;}
 #requests #content .center table tr td.label {background-color:rgba(27,47,63,0.65);}
 
 #requests #content .center .submit {
@@ -3105,7 +3105,7 @@ td .log_ {color: #}
 /* ********************** */
 
 #chat #wrapper #content {
-	background-color:rgba(24,59,88,0.85);;
+	background-color:#46444dbb;;
 	color:#fff;}
 
 #chat #wrapper #content .thin .box {
@@ -3337,7 +3337,7 @@ tr.unreadpm {color:#8ed538;	background-color:#1c3248;}
 /* ************************* */
 
 #artist #content table {background: url('https://i.imgur.com/wPvACxL.png');}
-#artist #content table tr {background-color:rgba(24,59,88,0.85); border-bottom: 1px #565a6a solid;}
+#artist #content table tr {background-color:#46444dbb; border-bottom: 1px #565a6a solid;}
 
 #artist #content .box table td {background-color:transparent; border: none;}
 
