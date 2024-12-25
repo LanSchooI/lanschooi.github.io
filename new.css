@@ -953,11 +953,11 @@ div.sidebar #event_div {
 	font-size:10pt;}
 
 .main_column_bg, .main_column, #main_column_bottom, #main_column_top {
-	-webkit-border-radius:8px;
-	-moz-border-radius:8px;}
+	-webkit-border-radius:0px;
+	-moz-border-radius:0px;}
 
 .main_column_bg  {
-	background-color:#27415A;
+	background-color:#3b3f49;
 	width:762px;
 	overflow:hidden;
 	position:relative;
