@@ -1082,8 +1082,8 @@ table.forum_index {											/* Sets background of main forum page */
 #forums #content .thin tr.rowb {background-color: transparent;}
 #forums .thin td {border: 1px solid #565a6a;}
 
-.rowa td {background-color: rgba(27, 47, 63, 0.85);}	/*Sets transparency, etc. for forum index*/
-.rowb td {background-color: rgba(24, 59, 88, 0.85);}
+.rowa td {background-color: rgba(47, 48, 54, .75);}	/*Sets transparency, etc. for forum index*/
+.rowb td {background-color: rgba(67, 69, 77, .75);}
 .rowa td a {color: #FFFFFF !important; font-weight:bold!important;}
 .rowa td a:hover {color:#c7d6f1 !important;
 	top: 1px;
@@ -1415,8 +1415,8 @@ tr.group:hover {background-color: rgba(24, 59, 88, 0.8);}
 	background: url('https://i.imgur.com/wPvACxL.png') repeat-y scroll bottom right;
     border: 1px solid #565a6a;}
 
-#torrents #content .thin table tr{background-color: rgba(27, 47, 63, 0.85);}
-/*#torrents #content .thin table tr:hover{background-color: rgba(24, 59, 88, 0.85);}*/
+#torrents #content .thin table tr{background-color: rgba(47, 48, 54, .75);}
+/*#torrents #content .thin table tr:hover{background-color: rgba(67, 69, 77, .75);}*/
 #torrents #content .thin table td{border-left: none; border-right: none}
 
 #torrents #content .thin table td.label {background-color: rgba(24,59,88, 0.85);}
@@ -1493,10 +1493,10 @@ tr.group:hover {background-color: rgba(24, 59, 88, 0.8);}
 #taglist td {
 	border:0}
 
-#torrents #content .thin table tr.owner, #torrents #content .thin table tr.owner:hover {background-color: rgba(24, 59, 88, 0.85);}
+#torrents #content .thin table tr.owner, #torrents #content .thin table tr.owner:hover {background-color: rgba(67, 69, 77, .75);}
 
 #torrents #content .sidebar .box_albumart p {padding:0;margin:0;}
-.edition_info {color:white; background-color:rgba(24, 59, 88, 0.85);}
+.edition_info {color:white; background-color:rgba(67, 69, 77, .75);}
 tbody .r08, tbody .r09 {font-weight:bold;}
 tbody .r10, tbody .r20, tbody .r50, tbody .r99 {color:#bcd68c;}
 #torrent_table .colhead .sign {padding:0 8px;}
@@ -2383,10 +2383,10 @@ td.cats_col {
 	border: 1px #565a6a solid;}
 
 #user #content .thin td {
-	background-color: rgba(24, 59, 88, 0.85);
+	background-color: rgba(67, 69, 77, .75);
 	border:none;}
 #user #content .thin td.label {
-	background-color:  rgba(27, 47, 63, 0.85);
+	background-color:  rgba(47, 48, 54, .75);
 	text-align:left;
 	font-weight:bold;}
 
@@ -2537,7 +2537,7 @@ td.cats_col {
 #collections #content .center table tr td.label {background-color:rgba(27, 47, 63, 0.75); }
 #collections #content .center table tr td {background-color:rgba(27, 47, 63, 0.75); border: none;}
 
-#collections table.collage tr {background-color:rgba(27, 47, 63, 0.85);}
+#collections table.collage tr {background-color:rgba(47, 48, 54, .75);}
 #collections #content #torrent_table tr td {background-color:rgba(27,47,63,0.65);}
 #collections #content td.collicon{height:28px; width:28px;}
 
@@ -2719,7 +2719,7 @@ ul.collage_images img {
 	background: url('https://i.imgur.com/wPvACxL.png') repeat-y scroll top center;
 	color:#fff;}
 #rules #wrapper #content .thin{
-	background-color:rgba(27, 47, 63, 0.85);
+	background-color:rgba(47, 48, 54, .75);
 	color:#fff;}
 
 #rules #content li{margin:0 0 5px 0}
@@ -3047,10 +3047,10 @@ td .log_ {color: #}
 td .log_ {color: #}
 
 #log #content table {background: url('https://i.imgur.com/wPvACxL.png'); border: 1px solid #565a6a;}
-#log #content table tr td.label {background-color:rgba(27, 47, 63, 0.85);}
-#log #content table tr td {background-color:rgba(27, 47, 63, 0.85);}
-#log #content table tr.rowa:hover {background-color: rgba(24, 59, 88, 0.85);}
-#log #content table tr.rowb:hover {background-color: rgba(24, 59, 88, 0.85);}
+#log #content table tr td.label {background-color:rgba(47, 48, 54, .75);}
+#log #content table tr td {background-color:rgba(47, 48, 54, .75);}
+#log #content table tr.rowa:hover {background-color: rgba(67, 69, 77, .75);}
+#log #content table tr.rowb:hover {background-color: rgba(67, 69, 77, .75);}
 
 #log #content table tr.colhead td {
 	background: url("https://i.imgur.com/X0e9JD9.png") repeat-x scroll 0 center transparent !important;
@@ -3061,14 +3061,14 @@ td .log_ {color: #}
 /* *************************** */
 
 #requests #content table {/*background: url('images/mariobkg2.png') no-repeat;*/ border: 1px solid #565a6a; background-size: 100% 100%;}
-#requests #content table tr td.label {background-color:rgba(27, 47, 63, 0.85);}
+#requests #content table tr td.label {background-color:rgba(47, 48, 54, .75);}
 #requests #content table tr td {background-color:transparent; border: none;}
 #requests #content table tr.rowa {background-color: rgba(27, 47, 63, 0.75);}
 #requests #content table tr.rowb {background-color: rgba(24, 59, 88, 0.75);}
 
 /*
  #requests #content table tr:not([class="rowa"]):not([class="rowb"]) {
-     background: none repeat scroll 0 0 rgba(24, 59, 88, 0.85);
+     background: none repeat scroll 0 0 rgba(67, 69, 77, .75);
 }
 */
 
@@ -3137,8 +3137,8 @@ td .log_ {color: #}
 
 #top10 #content .thin .center {margin:0 auto; margin-bottom:30px;}
 #top10 #content .thin .center table {background: url('https://i.imgur.com/wPvACxL.png'); border: 1px #003 solid;}
-#top10 #content .thin .center table tr td {background-color:rgba(27, 47, 63, 0.85); border: none;}
-#top10 #content .thin .center table tr td.label {background-color:rgba(27, 47, 63, 0.85); border: none;}
+#top10 #content .thin .center table tr td {background-color:rgba(47, 48, 54, .75); border: none;}
+#top10 #content .thin .center table tr td.label {background-color:rgba(47, 48, 54, .75); border: none;}
 
 #top10 #content .group_torrent td.center {width:28px;}
 
@@ -3341,8 +3341,8 @@ tr.unreadpm {color:#8ed538;	background-color:#1c3248;}
 
 #artist #content .box table td {background-color:transparent; border: none;}
 
-#artist #content table tr.rowa {background-color:rgba(27, 47, 63, 0.85); border: none;}
-#artist #content table tr.rowb {background-color:rgba(24, 59, 88, 0.85); border: none;}
+#artist #content table tr.rowa {background-color:rgba(47, 48, 54, .75); border: none;}
+#artist #content table tr.rowb {background-color:rgba(67, 69, 77, .75); border: none;}
 
 /* ************************* */
 /* *******INVITE TREE******* */
@@ -4415,7 +4415,7 @@ marquee {width: 100px;}
 	display: inline-block;
 	margin: 0 5px;}
 
-.sticky td {background-color: #255689;}
+.sticky td {background-color: #585c64;}
 
 #torrents #content .box_main_pack .center,
 #torrents #content .box_pack .center {
