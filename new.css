@@ -111,7 +111,7 @@ tr a:hover {
 	text-decoration:underline;}
 
 .colhead, .colhead_dark {
-    background: url("images/ColHeadGrad.png") repeat-x scroll 0 center transparent;
+    background: url("https://i.imgur.com/X0e9JD9.png") repeat-x scroll 0 center transparent;
     color: #FFFFFF;
 	font-size:7ipt;
     font-weight: 700;
@@ -137,7 +137,7 @@ tr a:hover {
     width: 61%;
 	z-index: 999;}
 #header .sub span{
-	background:url("images/ColHeadGrad.png") repeat-x scroll 0 50% transparent;
+	background:url("https://i.imgur.com/X0e9JD9.png") repeat-x scroll 0 50% transparent;
 	border: 1px solid #003;
 	display:block;
 	padding:5px;}
@@ -1308,7 +1308,7 @@ table td.avatar {
 	visibility:hidden;
 	width:10%;}
 #forums #content .sub span{
-	background:url("images/ColHeadGrad.png") repeat-x scroll 0 50% transparent;
+	background:url("https://i.imgur.com/X0e9JD9.png") repeat-x scroll 0 50% transparent;
 	border: 1px solid #003;
 	display:block;
 	padding:5px;}
@@ -1340,7 +1340,7 @@ table td.avatar {
 	text-indent: -9999px;}
 
 #forums #content table tr.colhead td {
-	background: url("images/ColHeadGrad.png") repeat-x scroll 0 center transparent !important;
+	background: url("https://i.imgur.com/X0e9JD9.png") repeat-x scroll 0 center transparent !important;
 	border: none;}
 
 #forums table td.body div {max-width:800px;}
@@ -1692,7 +1692,7 @@ tbody .r10, tbody .r20, tbody .r50, tbody .r99 {color:#bcd68c;}
 	width:15%;}
 
 .sub span{
-	background:url("images/ColHeadGrad.png") repeat-x scroll 0 50% transparent;
+	background:url("https://i.imgur.com/X0e9JD9.png") repeat-x scroll 0 50% transparent;
 	border: 1px solid #003;
 	display:block;
 	padding:5px;}
@@ -2391,7 +2391,7 @@ td.cats_col {
 	font-weight:bold;}
 
 #user #content table tr.colhead td{							/*Column headers in edit screens */
-    background: url("images/ColHeadGrad.png") repeat-x scroll 0 center transparent;
+    background: url("https://i.imgur.com/X0e9JD9.png") repeat-x scroll 0 center transparent;
     color: #FFFFFF;
 	font-size:7ipt;
     font-weight: 700;
@@ -2400,7 +2400,7 @@ td.cats_col {
     white-space: nowrap;
 	background-size: auto 100%;}
 #user #content table td.colhead {
-    background: url("images/ColHeadGrad.png") repeat-x scroll 0 center transparent;
+    background: url("https://i.imgur.com/X0e9JD9.png") repeat-x scroll 0 center transparent;
     color: #FFFFFF;
 	font-size:7ipt;
     font-weight: 700;
@@ -2409,7 +2409,7 @@ td.cats_col {
     white-space: nowrap;
 	background-size: auto 100%;}
 #user #content table tr.colhead_dark td{
-    background: url("images/ColHeadGrad.png") repeat-x scroll 0 center transparent;
+    background: url("https://i.imgur.com/X0e9JD9.png") repeat-x scroll 0 center transparent;
     color: #FFFFFF;
 	font-size:7ipt;
     font-weight: 700;
@@ -2418,7 +2418,7 @@ td.cats_col {
     white-space: nowrap;
 	background-size: auto 100%;}
 #user #content table td.colhead_dark {
-    background: url("images/ColHeadGrad.png") repeat-x scroll 0 center transparent;
+    background: url("https://i.imgur.com/X0e9JD9.png") repeat-x scroll 0 center transparent;
     color: #FFFFFF;
 	font-size:7ipt;
     font-weight: 700;
@@ -3053,7 +3053,7 @@ td .log_ {color: #}
 #log #content table tr.rowb:hover {background-color: rgba(24, 59, 88, 0.85);}
 
 #log #content table tr.colhead td {
-	background: url("images/ColHeadGrad.png") repeat-x scroll 0 center transparent !important;
+	background: url("https://i.imgur.com/X0e9JD9.png") repeat-x scroll 0 center transparent !important;
 	border: none;}
 
 /* *************************** */
@@ -3093,7 +3093,7 @@ td .log_ {color: #}
 
 #requests #content .colhead_dark td {padding:0 5px;}
 #requests #content table tr.colhead_dark td{
-     background: url('images/colheadgrad.png');}
+     background: url('https://i.imgur.com/X0e9JD9.png');}
 #requests #content #request_comments tr.colhead_dark td {
      background-size: contain;
      padding-bottom: 5px;}
@@ -3150,7 +3150,7 @@ td .log_ {color: #}
 #top10 #content .rowb td {background-color: rgba(24, 59, 88, 0.75); border: none;}
 
 #top10 #content table tr.colhead td {
-	background: url("images/ColHeadGrad.png") repeat-x scroll 0 center transparent !important;
+	background: url("https://i.imgur.com/X0e9JD9.png") repeat-x scroll 0 center transparent !important;
 	border: none;}
 
 /* ************************* */
@@ -3178,7 +3178,7 @@ td .log_ {color: #}
 
 #blog .head {
 	padding:4px;
-	background:url('images/ColHeadGrad.png') repeat-x scroll 0 50% transparent;
+	background:url('https://i.imgur.com/X0e9JD9.png') repeat-x scroll 0 50% transparent;
 	color:#fff;
 	margin-bottom:7px;
 	font-size: 11px;}
@@ -3290,7 +3290,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #inbox .head {
 	padding:4px;
-	background:url("images/ColHeadGrad.png") repeat-x scroll 0 50% transparent;
+	background:url("https://i.imgur.com/X0e9JD9.png") repeat-x scroll 0 50% transparent;
 	color:#fff;
 	margin-bottom:7px;}
 #inbox .head a {color:#fff;	font-weight:bold;}
@@ -3323,11 +3323,11 @@ tr.unreadpm {color:#C7EB00;	background-color:#1c3248;}
 /* ************************* */
 
 #upload #content table {background: url('images/companioncube2.png');}
-#upload #content table td {background-color:rgba(24,59,88,0.85); border: none;}
+#upload #content table td {background-color:rgba(24,59,88,0.385); border: none;}
 #upload #content table td.label {background-color:rgba(27, 47, 63, .85); border: none;}
 
 #upload #content table tr.colhead td {
-	background: url("images/ColHeadGrad.png") repeat-x scroll 0 center transparent !important;
+	background: url("https://i.imgur.com/X0e9JD9.png") repeat-x scroll 0 center transparent !important;
 	border: none;}
 
 #upload input:disabled{color:#999;}
